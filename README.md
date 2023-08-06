@@ -6,3 +6,6 @@
 👨‍💻 Proficient in Python, Java | Quick learner with a recent dive into JavaScript & React. <br />
 🌍 Fluent in English (C1) & Native in German. <br />
 🚀 Seeking challenges and growth in a professional environment. Let's collaborate! <br />
+
+
+ <!--![Leetcode Stats](https://leetcard.jacoblin.cool/ZimneJonas)-->
