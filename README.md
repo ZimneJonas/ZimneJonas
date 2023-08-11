@@ -8,4 +8,4 @@
 🚀 Seeking challenges and growth in a professional environment. Let's collaborate! <br />
 
 
- <!--![Leetcode Stats](https://leetcard.jacoblin.cool/ZimneJonas)-->
+![Leetcode Stats](https://leetcard.jacoblin.cool/ZimneJonas)
